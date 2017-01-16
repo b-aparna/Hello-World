@@ -1,2 +1,3 @@
 # Hello-World
-My First Repo
+My First Repository 
+My first attempt at GIT 
